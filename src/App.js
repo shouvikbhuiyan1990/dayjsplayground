@@ -10,7 +10,9 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Dayjs Playground</h1>
+      <h1>Dayjs Playground
+        <a href="https://www.npmjs.com/package/dayjs">v1.10.5</a>
+      </h1>
       <form className='input-container' onSubmit={dateSubmit}>
         <input
           type="text"

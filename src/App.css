@@ -9,6 +9,13 @@
   margin: 0 auto;
 }
 
+a {
+  color: #282626;
+  font-size: 0.8rem;
+  margin-left: 10px;
+  display: inline-block;
+}
+
 h2 {
   font-size: 2rem;
   margin-bottom: 0;
